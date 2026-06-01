@@ -141,5 +141,3 @@ Retail-Sales-Analytics-Dashboard
 ## Author
 
 Anupam Chauhan
-
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
