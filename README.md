@@ -113,7 +113,7 @@ This dashboard was developed to answer the following business questions:
 ## Dashboard Insights
 
 
-<img width="1070" height="511" alt="image" src="https://github.com/user-attachments/assets/fca319cc-e9c1-41e8-af63-2e2d557497d3" />
+<img width="640" height="316" alt="image" src="https://github.com/user-attachments/assets/02cfa753-ecb1-4244-88d3-6c424f0192e2" />
 
 <img width="1127" height="632" alt="image" src="https://github.com/user-attachments/assets/219a0f39-b6b2-4758-a7f5-880efd27aa2c" />
 
