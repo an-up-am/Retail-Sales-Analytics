@@ -1,5 +1,9 @@
 # Retail Sales Analytics Dashboard
 
+## Dashboard Preview
+
+<img width="1477" height="735" alt="image" src="https://github.com/user-attachments/assets/d5d12d18-3170-4ac5-9c1f-3332bf71c70b" />
+
 ## Overview
 
 This project presents an interactive Retail Sales Analytics Dashboard built in Microsoft Excel to analyze sales performance across products, regions, customer demographics, and sales channels.
@@ -106,9 +110,8 @@ This dashboard was developed to answer the following business questions:
 
 ---
 
-## Dashboard Preview
+## Dashboard Insights
 
-<img width="1477" height="735" alt="image" src="https://github.com/user-attachments/assets/d5d12d18-3170-4ac5-9c1f-3332bf71c70b" />
 
 <img width="1070" height="511" alt="image" src="https://github.com/user-attachments/assets/fca319cc-e9c1-41e8-af63-2e2d557497d3" />
 
