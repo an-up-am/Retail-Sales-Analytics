@@ -130,21 +130,7 @@ Retail-Sales-Analytics-Dashboard
 
 ├── Retail_Sales_Analytics_Dashboard.xlsx
 
-├── Dataset
-
-│ └── retail_sales_dataset.xlsx
-
-├── Dashboard_Images
-
-│ ├── dashboard_overview.png
-
-│ ├── regional_analysis.png
-
-│ └── sales_channel_analysis.png
-
-└── Documentation
-
-└── Business_Insights.pdf
+├── Retail_sales_dataset.xlsx
 
 ---
 
