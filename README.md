@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-<img width="1477" height="735" alt="image" src="https://github.com/user-attachments/assets/d5d12d18-3170-4ac5-9c1f-3332bf71c70b" />
+<img width="1481" height="721" alt="image" src="https://github.com/user-attachments/assets/9ce034f8-0886-482b-8e08-f8aba4e88652" />
 
 ## Overview
 
