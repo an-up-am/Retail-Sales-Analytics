@@ -130,7 +130,7 @@ Retail-Sales-Analytics-Dashboard
 
 ├── Retail_Sales_Analytics_Dashboard.xlsx
 
-├── Retail_Sales_Analytics__Dataset.xlsx
+├── Retail_Sales_Analytics_Dataset.xlsx
 
 ---
 
